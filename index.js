@@ -1,6 +1,6 @@
 const { foo } = require('lib')
 
-console.log("hello world!");
+console.log("hello mengkheang!");
 
 alert("hello world 2")
 
